@@ -1,0 +1,36 @@
+nav{
+    text-transform:uppercase;
+    text-decoration:none;
+    text-align:right;
+    padding:10px;
+    height:20px;
+  }
+  nav li{
+    margin:right;
+    display:inline;
+  }
+  nav li a{
+    color:aqua;}
+
+    h1{
+        font-family: 'Shadows Into Light', cursive;
+        padding-left: 40%;
+        
+
+    }
+    h2{
+        font-family: 'Shadows Into Light', cursive;
+        padding-left: 40%;  
+    }
+    body{
+        background-image: url('https://images.all-free-download.com/images/graphiclarge/painting_background_colorful_splashing_decoration_6829250.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .display{
+        display:table-cell;
+        
+    }
+    .important{
+        float: right;
+    }
