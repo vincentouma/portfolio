@@ -4,33 +4,86 @@ nav{
     text-align:right;
     padding:10px;
     height:20px;
-  }
-  nav li{
+   }
+nav li{
     margin:right;
     display:inline;
-  }
-  nav li a{
-    color:aqua;}
+   }
+nav li a{
+    color:whitesmoke;
+    text-decoration: none;
+    padding: 3%;
 
-    h1{
+    }
+nav li a:hover{
+       color: black;
+    }
+
+h1{
         font-family: 'Shadows Into Light', cursive;
-        padding-left: 40%;
+        padding-left: 30%;
+        font-size: xx-large
         
 
     }
-    h2{
+h2{
         font-family: 'Shadows Into Light', cursive;
         padding-left: 40%;  
     }
-    body{
+body{
         background-image: url('https://images.all-free-download.com/images/graphiclarge/painting_background_colorful_splashing_decoration_6829250.jpg');
         background-repeat: no-repeat;
         background-size: cover;
     }
-    .display{
+.display{
         display:table-cell;
+        bottom: 01%;
+    }
+.important{
+        float: right;
+     
+    }
+img{
+        padding-left: 25%;
+    }
+#about h4{
+        padding: left 10%; 
+    }
+div>h1>p{
+        max-width: 960px;
+        margin: auto;
+    }
+p,li{
+        font-family: 'Handlee', cursive;
+        font-size:larger;
+    }
+h2,h3,h4 {
+        font-family: 'Philosopher', sans-serif;
+        color:rgb(255,105,180);
         
     }
-    .important{
-        float: right;
+    .slide{
+        padding-left: 30%;
+        border: 4px silid hotpink;
+        position: absolute;
+    
+    }
+    footer{
+       position: absolute;
+       bottom:30% ;
+       text-align: center;
+       font-family: 'Shadows Into Light', cursive;
+        padding-left: 40%;
+        font-size: xx-large
+    }
+    .conta{
+        padding-left: 30%;
+    
+    }
+    .why {
+        border: 4px silid hotpink;
+        border-radius: 5px;
+        float: left;
+        position: absolute;
+        top: 
     }
