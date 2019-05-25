@@ -80,10 +80,11 @@ h2,h3,h4 {
         padding-left: 30%;
     
     }
-    .why {
-        border: 4px silid hotpink;
-        border-radius: 5px;
-        float: left;
-        position: absolute;
-        top: 
+    #why {
+       
+        float: right;
+        border-radius: 4px;
+        padding-top: 20%;
+       
+         
     }
