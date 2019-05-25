@@ -28,7 +28,8 @@ h1{
     }
 h2{
         font-family: 'Shadows Into Light', cursive;
-        padding-left: 40%;  
+        padding-left: 40%; 
+        padding-top: 2%; 
     }
 body{
         background-image: url('https://images.all-free-download.com/images/graphiclarge/painting_background_colorful_splashing_decoration_6829250.jpg');
@@ -92,4 +93,12 @@ h2,h3,h4 {
         margin: right;
         text-align: center;
         padding-top: 5%;
+    }
+    .intro{
+    box-sizing: border-box;
+    border: 3px solid hotpink;
+    padding: 2%;
+    padding-bottom: 40%;
+    width: 400px;
+    height: 100px;
     }
