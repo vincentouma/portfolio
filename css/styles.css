@@ -22,14 +22,16 @@ nav li a:hover{
 h1{
         font-family: 'Shadows Into Light', cursive;
         padding-left: 30%;
-        font-size: xx-large
+        font-size: xx-large;
         
 
     }
 h2{
         font-family: 'Shadows Into Light', cursive;
         padding-left: 40%; 
-        padding-top: 2%; 
+        padding-top: 2%;
+        font-size:  
+        
     }
 body{
         background-image: url('https://images.all-free-download.com/images/graphiclarge/painting_background_colorful_splashing_decoration_6829250.jpg');
@@ -98,7 +100,16 @@ h2,h3,h4 {
     border: 3px solid hotpink;
     padding: 2%;
     padding-bottom: 40%;
-    width: 800px;
-    height: 600px;
-    background-image: url('https://www.soft8soft.com/wp-content/uploads/2017/11/banner3.jpg')
+    width: 600px;
+    height: 200px;
+    box-shadow: black;
+    box-shadow: 10px;
+    font-size: xx-large;
+    
+    }
+    .intro:hover{
+        color: white;
+        font-size: xx-large;
+        height: 200px;
+        width: 600px;
     }
