@@ -23,6 +23,9 @@ h1{
         font-family: 'Shadows Into Light', cursive;
         padding-left: 30%;
         font-size: xx-large;
+        position: relative;
+        -webkit-animation: mymove 5s infinite;
+        animation: alternate-reverse;
         
 
     }
@@ -112,4 +115,9 @@ h2,h3,h4 {
         font-size: xx-large;
         height: 200px;
         width: 600px;
+       
+    }
+    @-webkit-keyframes mymove {
+        from{left: 0px;}
+        to{left: 200px}
     }
