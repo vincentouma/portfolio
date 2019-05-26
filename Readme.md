@@ -1,16 +1,16 @@
 # MY PORTFOLIO
 
-#### This portfolio is a dtailed information about me and it targets employer.
+#### This portfolio is a detailed information about me and it targets potential pemployer who can utilize my skills.
 #### Author 
 Vincent Ouma
 ## the website entails:
-1. it has a home page welcome you to my portfolio.
-2. it has a navigation bar that helps you navigate through the web page.
-3. the web page has my education background, my profesional skilss.
-4. it also has a list of my hobies and intrests.
-5. it has a list of projects have done and languages used to.
-6. it has my contacts and how to access my work.
-7. the website targets portential employers who are in need of the skills i have as indicated in the web page.
+1. Home page welcome you to my portfolio.
+2. Navigation bar that helps you navigate through the web page.
+3. About me page wth my education background, my profesional skilss.
+4. A list of my hobies and intrests.
+5. A list of projects have done and languages used to.
+6. Contacts and how to access my work.
+7. The website targets portential employers who are in need of the skills i have as indicated in the web page.
 
 ## Setup/Installation Requirements
 * git clone https://github.com/vincentouma/portfolio.git
@@ -31,7 +31,7 @@ Vincent Ouma
 ### License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [Portfolio]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
