@@ -24,9 +24,8 @@ h1{
         font-family: 'Shadows Into Light', cursive;
         padding-left: 30%;
         font-size: xx-large;
-        position: relative;
-        -webkit-animation: mymove 5s infinite;
-        animation: alternate-reverse;
+        padding-top: 10%;
+       
         
 
     }
@@ -93,10 +92,10 @@ h2,h3,h4 {
     }
     footer{
        position: absolute;
-       bottom:30% ;
+       bottom:20% ;
        text-align: center;
        font-family: 'Shadows Into Light', cursive;
-        padding-left: 40%;
+        padding-left: 50%;
         font-size: xx-large
     }
     .conta{
@@ -134,7 +133,12 @@ h2,h3,h4 {
         width: 600px;
        
     }
-    @-webkit-keyframes mymove {
-        from{left: 0px;}
-        to{left: 200px}
+    .name{
+        font-family: 'Shadows Into Light', cursive;
+        color: white;
+        font-size: xx-large;
+        margin:left;
+        margin:right;
+        text-align: center;
     }
+    
