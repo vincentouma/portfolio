@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-#### This portfolio is a detailed information about me and it targets potential pemployer who can utilize my skills.
+#### This portfolio is a detailed information about me and it targets potential employer who can utilize my skills.
 #### Author 
 Vincent Ouma
 ## the website entails:
